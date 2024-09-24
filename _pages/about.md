@@ -54,35 +54,35 @@ Experience
 ======
 ---
 
-**Programming Assistant (on site)**  _（2024.8-Present）_
+## Programming Assistant (on site)  _（2024.8-Present）_
 
-Digital Studies Institute｜**University of Michigan, Ann Arbor**
+**Digital Studies Institute｜University of Michigan, Ann Arbor**
 
--Assisted with program planning
-
----
-
-**Instructor (on site)**  _（2023.1-2023.7）_
-
-Debate Club｜**Suzhou Affiliated High School of Xi'an Jiaotong University**
-
--Independent activities such as curriculum design, student assessment, and teaching.
+_Contribute to the development of community-focused initiatives designed to illuminate the social inequities underpinnings of the digital age._
 
 ---
 
-**Volunteer Teacher (on site)**  _（2022.6-2022.8）_
+## Instructor (on site)  _（2023.1-2023.7）_
 
-English Teacher and Class advisor｜**Puyang Xuji Weiwu Primary School**
+**Debate Club｜Suzhou Affiliated High School of Xi'an Jiaotong University**
 
--Designing lessons, evaluating students and teaching independently.
+_Design and implement a curricular unit centered on debate, with the primary objective of fostering student engagement in discussions of societal issues and cultivating their critical thinking skills._
 
 ---
 
-**Internship Teacher (on site)**  _（2021.1-2021.9）_
+## Volunteer Teacher (on site)  _（2022.6-2022.8）_
 
-English Teacher｜**E-blocks China, Suzhou Positive Campus**
+**English Teacher and Class advisor｜Puyang Xuji Weiwu Primary School**
 
--Conducted independent lectures and student evaluations
+_Conducted English language courses for underprivileged rural students, facilitating the application of their linguistic knowledge to practical contexts._
+
+---
+
+## Internship Teacher (on site)  _（2021.1-2021.9）_
+
+**English Teacher｜E-blocks China, Suzhou Positive Campus**
+
+_Developed a curriculum in conjunction with the e-blocks instructional system to facilitate student acquisition of proficient English reading, listening, writing, and speaking skills._
 
 ---
 
@@ -90,7 +90,7 @@ Personal Journey as a First-Generation Student
 ------
 As a first-generation college student hailing from a low-socioeconomic background, everything within the university milieu was nearly alien to me. Despite having diligently pursued academic excellence and bearing my parents’ aspirations, stepping into university invoked not freedom and confidence but pervasive anxiety and fear. The campus felt overwhelmingly large, complex, and resource-rich. The bombardment of information made me feel disoriented. 
 
-While peers were engaging with professors on research endeavors, I found the concept of research itself unfamiliar. As they skillfully navigated course selection, I was still puzzled by the categorization of required and elective courses. Thus began my struggle and avoidance, often plunging into distress and confusion. My initial thought upon entering university was, “I don’t belong here.” 
+While peers were engaging with professors on research endeavors, I found the concept of research itself unfamiliar. As they skillfully navigated course selection, I was still puzzled by the categorization of required and elective courses. Thus began my struggle and avoidance, often plunging into distress and confusion. My initial thought upon entering university was, **“I don’t belong here.”** 
 
 Exploring Educational Inequities
 ------
@@ -115,20 +115,3 @@ I am resolutely committed to addressing the critical issues facing first-generat
 My commitment to innovation in education and the pursuit of equity is the cornerstone of this ambition. Drawing from a rich tapestry of experiences—from high school internships to grassroots work in rural schools and community service—I have gained invaluable insights into the multifaceted challenges and aspirations of students. This diverse background, coupled with my involvement in university organizations, has equipped me with a unique perspective to drive meaningful change.
 
 I stand poised at the threshold of this academic journey, brimming with passion and ready to channel my experiences, knowledge, and unwavering dedication into pioneering higher education reforms. Together, we can forge a more equitable and empowering educational landscape for all students, regardless of their background.
-
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
