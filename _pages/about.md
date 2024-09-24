@@ -9,7 +9,7 @@ redirect_from:
 
 Hello. My name is Yeh Yangzhen, you can call me Yangzhen or Michael! 
 
-I am from Suzhou, China. Now I'm in Ann Arbor, United States.
+I am from Suzhou, China🇨🇳. Now I'm in Ann Arbor, United States🇺🇸.
 
 I am currently pursuing a Master's degree in Higher Education at [Marsal Family School of Education](https://marsal.umich.edu/)｜[University of Michigan, Ann Arbor](https://umich.edu/), and I am working as a Program Planning Assistant at the [Digital Studies Institute](https://www.digitalstudies.umich.edu/)｜[College of LSA](https://lsa.umich.edu/) at the University of Michigan. 
 
