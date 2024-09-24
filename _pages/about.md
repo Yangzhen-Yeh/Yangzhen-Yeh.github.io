@@ -19,14 +19,14 @@ Educational Background
 ======
 ---
 
-**University of Michigan, Ann Arbor (2024-Present)**
+## University of Michigan, Ann Arbor (2024-Present)
 
 _-M.A. Student, **Higher Education**,  
 -[Center for the Study of Higher and Postsecondary Education](https://marsal.umich.edu/academics-admissions/cshpe)_
 
 ---
 
-**Soochow University (2020-2024)**
+## Soochow University (2020-2024)**
 
 _-B.S. in **Management**  
 -Department of Management Science  
