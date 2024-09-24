@@ -21,32 +21,32 @@ Educational Background
 
 ## _University of Michigan, Ann Arbor (2024-Present)_
 
-_-M.A. Student, **Higher Education**  
--[Center for the Study of Higher and Postsecondary Education](https://marsal.umich.edu/academics-admissions/cshpe)_
+_M.A. Student, **Higher Education**  
+[Center for the Study of Higher and Postsecondary Education](https://marsal.umich.edu/academics-admissions/cshpe)_
 
 ---
 
 ## _Soochow University (2020-2024)_
 
-_-B.S. in **Management**  
--Department of Management Science  
--GPA: 3.8_
+_B.S. in **Management**  
+Department of Management Science  
+GPA: 3.8_
 
 ---
 
 ## _Soochow University (2021-2024)_
 
-_-B.A. in **Education**  
--Department of Education  
--GPA: 3.8_
+_B.A. in **Education**  
+Department of Education  
+GPA: 3.8_
 
 ---
 
 ## _University of Taipei (2023)_
 
-_-Exchange Student 
--Department of Education 
--GPA: 3.8_
+_Exchange Student 
+Department of Education 
+GPA: 3.8_
 
 ---
 
