@@ -14,15 +14,19 @@ I am interested in research related to higher education, with a particular inter
 Educational Background
 ======
 University of Michigan, Ann Arbor (2024-Present)
+
 M.A. Student, Higher Education, CSHPE
 
 Soochow University (2020-2024)
+
 B.S. in Management, Department of Management Science, 91
 
 Soochow University (2021-2024)
+
 B.A. in Education, Department of Education, 90
 
 University of Taipei (2023)
+
 Exchange Student, Department of Education, 89
 
 Experience
