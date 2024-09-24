@@ -1,38 +1,47 @@
 ---
 permalink: /
-title: "Who am I?"
+# title: "Who am I?"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello. My name is Yeh Yangzhen, you can call me Yangzhen or Michael! I am from Suzhou, China. 
+Hello. My name is Yeh Yangzhen, you can call me Yangzhen or Michael! 
+
+I am from Suzhou, China. Now I'm in Ann Arbor, United States.
 
 I am currently pursuing a Master's degree in Higher Education at [Marsal Family School of Education](https://marsal.umich.edu/)｜[University of Michigan, Ann Arbor](https://umich.edu/), and I am working as a Program Planning Assistant at the [Digital Studies Institute](https://www.digitalstudies.umich.edu/)｜[College of LSA](https://lsa.umich.edu/) at the University of Michigan. 
 
-I am interested in research related to higher education, with a particular interest in the topics of educational equity, student success, low-income families, and first-generation college students. I believe that one of the most pressing issues facing higher education today is equity in the educational process, and that a promising solution is the development of truly meaningful general education programs.
+I am interested in research related to **higher education**, with a particular interest in the topics of **educational equity**, **student success**, **low-income families**, and **first-generation college students**.
 
 Educational Background
 ======
 **University of Michigan, Ann Arbor (2024-Present)**
 
-_M.A. Student, **Higher Education**, [CSHPE](https://marsal.umich.edu/academics-admissions/cshpe)_
+_-M.A. Student, **Higher Education**,  
+-[Center for the Study of Higher and Postsecondary Education](https://marsal.umich.edu/academics-admissions/cshpe)_
 
 
 **Soochow University (2020-2024)**
 
-_B.S. in **Management**, Department of Management Science, 91_
+_-B.S. in **Management**  
+-Department of Management Science  
+-GPA: 3.8_
 
 
 **Soochow University (2021-2024)**
 
-_B.A. in **Education**, Department of Education, 90_
+_-B.A. in **Education**,  
+-Department of Education,  
+-GPA: 3.8_
 
 
 **University of Taipei (2023)**
 
-_Exchange Student, Department of Education, 89_
+_-Exchange Student, 
+-Department of Education, 
+-GPA: 3.8_
 
 Experience
 ======
@@ -40,25 +49,25 @@ Experience
 
 Digital Studies Institute｜**University of Michigan, Ann Arbor**
 
-Assisted with program planning
+-Assisted with program planning
 
 **Instructor (on site)**  _（2023.1-2023.7）_
 
 Debate Club｜**Suzhou Affiliated High School of Xi'an Jiaotong University**
 
-Independent activities such as curriculum design, student assessment, and teaching.
+-Independent activities such as curriculum design, student assessment, and teaching.
 
 **Volunteer Teacher (on site)**  _（2022.6-2022.8）_
 
 English Teacher and Class advisor｜**Puyang Xuji Weiwu Primary School**
 
-Designing lessons, evaluating students and teaching independently.
+-Designing lessons, evaluating students and teaching independently.
 
 **Internship Teacher (on site)**  _（2021.1-2021.9）_
 
 English Teacher｜**E-blocks China, Suzhou Positive Campus**
 
-Conducted independent lectures and student evaluations
+-Conducted independent lectures and student evaluations
 
 Personal Journey as a First-Generation Student 
 ------
