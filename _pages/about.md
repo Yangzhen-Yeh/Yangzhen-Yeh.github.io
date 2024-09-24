@@ -36,25 +36,25 @@ _Exchange Student, Department of Education, 89_
 
 Experience
 ======
-**Programming Assistant (on site)** | _2024.8-Present_
+**Programming Assistant (on site)**  _（2024.8-Present）_
 
 Digital Studies Institute｜**University of Michigan, Ann Arbor**
 
 Assisted with program planning
 
-**Instructor (on site)** | _2023.1-2023.7_
+**Instructor (on site)**  _（2023.1-2023.7）_
 
 Debate Club｜**Suzhou Affiliated High School of Xi'an Jiaotong University**
 
 Independent activities such as curriculum design, student assessment, and teaching.
 
-**Volunteer Teacher (on site)** | _2022.6-2022.8_
+**Volunteer Teacher (on site)**  _（2022.6-2022.8）_
 
 English Teacher and Class advisor｜**Puyang Xuji Weiwu Primary School**
 
 Designing lessons, evaluating students and teaching independently.
 
-**Internship Teacher (on site)** | _2021.1-2021.9_
+**Internship Teacher (on site)**  _（2021.1-2021.9）_
 
 English Teacher｜**E-blocks China, Suzhou Positive Campus**
 
