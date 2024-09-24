@@ -17,57 +17,63 @@ I am interested in research related to **higher education**, with a particular i
 
 Educational Background
 ======
+---
 **University of Michigan, Ann Arbor (2024-Present)**
 
 _-M.A. Student, **Higher Education**,  
 -[Center for the Study of Higher and Postsecondary Education](https://marsal.umich.edu/academics-admissions/cshpe)_
-
+---
 
 **Soochow University (2020-2024)**
 
 _-B.S. in **Management**  
 -Department of Management Science  
 -GPA: 3.8_
-
+---
 
 **Soochow University (2021-2024)**
 
 _-B.A. in **Education**,  
 -Department of Education,  
 -GPA: 3.8_
-
+---
 
 **University of Taipei (2023)**
 
 _-Exchange Student, 
 -Department of Education, 
 -GPA: 3.8_
-
+---
 Experience
 ======
+---
 **Programming Assistant (on site)**  _（2024.8-Present）_
 
 Digital Studies Institute｜**University of Michigan, Ann Arbor**
 
 -Assisted with program planning
+---
 
 **Instructor (on site)**  _（2023.1-2023.7）_
 
 Debate Club｜**Suzhou Affiliated High School of Xi'an Jiaotong University**
 
 -Independent activities such as curriculum design, student assessment, and teaching.
+---
 
 **Volunteer Teacher (on site)**  _（2022.6-2022.8）_
 
 English Teacher and Class advisor｜**Puyang Xuji Weiwu Primary School**
 
 -Designing lessons, evaluating students and teaching independently.
+---
 
 **Internship Teacher (on site)**  _（2021.1-2021.9）_
 
 English Teacher｜**E-blocks China, Suzhou Positive Campus**
 
 -Conducted independent lectures and student evaluations
+---
 
 Personal Journey as a First-Generation Student 
 ------
