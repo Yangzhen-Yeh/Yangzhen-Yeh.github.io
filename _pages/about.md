@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 Hello. My name is Yeh Yangzhen, you can call me Yangzhen or Michael! I am from Suzhou, China. 
+
 I am currently pursuing a Master's degree in Higher Education at [Marsal Family School of Education](https://marsal.umich.edu/) |  [University of Michigan, Ann Arbor](https://umich.edu/), and I am working as a Program Planning Assistant at the [Digital Studies Institute](https://www.digitalstudies.umich.edu/) | [College of LSA](https://lsa.umich.edu/) at the University of Michigan. 
+
 I am interested in research related to higher education, with a particular interest in the topics of educational equity, student success, low-income families, and first-generation college students. I believe that one of the most pressing issues facing higher education today is equity in the educational process, and that a promising solution is the development of truly meaningful general education programs.
 
 Educational Background
@@ -40,20 +42,17 @@ Digital Studies Institute｜**University of Michigan, Ann Arbor**
 
 Assisted with program planning
 
-
 **Instructor (on site)** | _2023.1-2023.7_
 
 Debate Club｜**Suzhou Affiliated High School of Xi'an Jiaotong University**
 
 Independent activities such as curriculum design, student assessment, and teaching.
 
-
 **Volunteer Teacher (on site)** | _2022.6-2022.8_
 
 English Teacher and Class advisor｜**Puyang Xuji Weiwu Primary School**
 
 Designing lessons, evaluating students and teaching independently.
-
 
 **Internship Teacher (on site)** | _2021.1-2021.9_
 
