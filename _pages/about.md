@@ -15,22 +15,22 @@ Educational Background
 ======
 **University of Michigan, Ann Arbor (2024-Present)**
 
-M.A. Student, **Higher Education**, [CSHPE](https://marsal.umich.edu/academics-admissions/cshpe)
+_M.A. Student, **Higher Education**, [CSHPE](https://marsal.umich.edu/academics-admissions/cshpe)_
 
 
 **Soochow University (2020-2024)**
 
-B.S. in **Management**, Department of Management Science, 91
+_B.S. in **Management**, Department of Management Science, 91_
 
 
 **Soochow University (2021-2024)**
 
-B.A. in **Education**, Department of Education, 90
+_B.A. in **Education**, Department of Education, 90_
 
 
 **University of Taipei (2023)**
 
-Exchange Student, Department of Education, 89
+_Exchange Student, Department of Education, 89_
 
 Experience
 ======
