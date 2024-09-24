@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Who am I?"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello. My name is Yeh Yangzhen, you can call me Yangzhen or Michael! I am from Suzhou, China. 
+I am currently pursuing a Master's degree in Higher Education at [Marsal Family School of Education](https://marsal.umich.edu/) |  [University of Michigan, Ann Arbor](https://umich.edu/), and I am working as a Program Planning Assistant at the [Digital Studies Institute](https://www.digitalstudies.umich.edu/) | [College of LSA](https://lsa.umich.edu/) at the University of Michigan. 
+I am interested in research related to higher education, with a particular interest in the topics of educational equity, student success, low-income families, and first-generation college students. I believe that one of the most pressing issues facing higher education today is equity in the educational process, and that a promising solution is the development of truly meaningful general education programs.
 
 A data-driven personal website
 ======
