@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello. My name is Yeh Yangzhen, you can call me Yangzhen or Michael! 
+Hello. My name is Yeh Yangzhen, you can call me **_Yangzhen_** or **_Michael_**! 
 
 I am from Suzhou, China🇨🇳. Now I'm in Ann Arbor, United States🇺🇸.
 
@@ -85,6 +85,8 @@ _Conducted English language courses for underprivileged rural students, facilita
 _Developed a curriculum in conjunction with the e-blocks instructional system to facilitate student acquisition of proficient English reading, listening, writing, and speaking skills._
 
 ---
+
+# Why I am here?
 
 Personal Journey as a First-Generation Student 
 ------
