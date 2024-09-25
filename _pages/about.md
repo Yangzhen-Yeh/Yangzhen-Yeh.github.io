@@ -23,7 +23,7 @@ Educational Background
 
 _M.A. Student, **Higher Education**  
 [Center for the Study of Higher and Postsecondary Education](https://marsal.umich.edu/academics-admissions/cshpe)  
-Concentration: Diversity and Social Justice in Higher Education_
+Concentration: [Diversity and Social Justice in Higher Education](https://marsal.umich.edu/academics-admissions/degrees/masters/diversity-and-social-justice-higher-education)_
 
 ---
 
