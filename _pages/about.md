@@ -15,6 +15,7 @@ I am currently pursuing a Master's degree in Higher Education at [Marsal Family 
 
 I am interested in research related to **higher education**, with a particular interest in the topics of **educational equity**, **student success**, **low-income families**, and **first-generation college students**.
 
+
 Educational Background
 ======
 ---
@@ -49,6 +50,7 @@ Department of Education
 GPA: 3.8_
 
 ---
+
 
 Experience
 ======
@@ -85,6 +87,7 @@ _Conducted English language courses for underprivileged rural students, facilita
 _Developed a curriculum in conjunction with the e-blocks instructional system to facilitate student acquisition of proficient English reading, listening, writing, and speaking skills._
 
 ---
+
 
 # Why I am here?
 
