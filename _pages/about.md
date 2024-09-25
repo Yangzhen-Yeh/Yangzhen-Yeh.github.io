@@ -45,8 +45,8 @@ GPA: 3.8_
 
 ## _University of Taipei (2023)_
 
-_Exchange Student 
-[Department of Education](https://edu.utaipei.edu.tw/index.php?Lang=en) 
+_Exchange Student  
+[Department of Education](https://edu.utaipei.edu.tw/index.php?Lang=en)  
 GPA: 4.0_
 
 ---
