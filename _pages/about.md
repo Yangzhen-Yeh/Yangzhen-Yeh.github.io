@@ -37,7 +37,7 @@ GPA: 3.8_
 
 ## _Soochow University (2021-2024)_
 
-### _B.A. in **Education**  
+_B.A. in **Education**  
 [Department of Education](https://eng.suda.edu.cn/Academics/Schools/201712/c45ed936-72e5-490a-9288-0dc03acc1a83.html)  
 GPA: 3.8_
 
