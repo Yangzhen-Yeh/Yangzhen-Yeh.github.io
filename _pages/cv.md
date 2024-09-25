@@ -103,6 +103,8 @@ Skills
 > Native level Chinese  
 > Fluent English
 
+---
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
