@@ -15,7 +15,7 @@ I graduated from [**Soochow University**](http://eng.suda.edu.cn/) in June 2024 
 
 I am interested in research related to **higher education**, with a particular interest in the topics of **educational equity**, **student success**, **low-income families**, **low socioeconomic status(SES) families** and **first-generation college students**.
 
----
+
 Educational Background
 ======
 ---
@@ -51,7 +51,6 @@ GPA: 4.0_
 
 ---
 
----
 Experience
 ======
 ---
