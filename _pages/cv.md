@@ -82,18 +82,18 @@ Work experience
 Skills
 ======
 ## Quantitative analysis methods
-> Stata: intermediate level
-> SPSS: intermediate level
+> Stata: intermediate level  
+> SPSS: intermediate level  
 > Python: beginner level
 ---
 ## Program Management
-> Programming
-> Marketing
-> Hosting
+> Programming  
+> Marketing  
+> Hosting  
 > Emergency management
 ---
 ## Bilingualism
-> Native level Chinese
+> Native level Chinese  
 > Fluent English
 
 Publications
