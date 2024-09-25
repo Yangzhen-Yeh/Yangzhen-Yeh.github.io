@@ -58,7 +58,7 @@ Experience
 
 **Digital Studies Institute｜University of Michigan, Ann Arbor**
 
-_Contribute to the development of community-focused initiatives designed to illuminate the social inequities underpinnings of the digital age._
+_>Contribute to the development of community-focused initiatives designed to illuminate the social inequities underpinnings of the digital age._
 
 ---
 
@@ -66,7 +66,7 @@ _Contribute to the development of community-focused initiatives designed to illu
 
 **Debate Club｜Suzhou Affiliated High School of Xi'an Jiaotong University**
 
-_Design and implement a curricular unit centered on debate, with the primary objective of fostering student engagement in discussions of societal issues and cultivating their critical thinking skills._
+_>Design and implement a curricular unit centered on debate, with the primary objective of fostering student engagement in discussions of societal issues and cultivating their critical thinking skills._
 
 ---
 
@@ -74,7 +74,7 @@ _Design and implement a curricular unit centered on debate, with the primary obj
 
 **English Teacher and Class advisor｜Puyang Xuji Weiwu Primary School**
 
-_Conducted English language courses for underprivileged rural students, facilitating the application of their linguistic knowledge to practical contexts._
+_>Conducted English language courses for underprivileged rural students, facilitating the application of their linguistic knowledge to practical contexts._
 
 ---
 
@@ -82,7 +82,7 @@ _Conducted English language courses for underprivileged rural students, facilita
 
 **English Teacher｜E-blocks China, Suzhou Positive Campus**
 
-_Developed a curriculum in conjunction with the e-blocks instructional system to facilitate student acquisition of proficient English reading, listening, writing, and speaking skills._
+_>Developed a curriculum in conjunction with the e-blocks instructional system to facilitate student acquisition of proficient English reading, listening, writing, and speaking skills._
 
 ---
 
