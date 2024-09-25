@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello. My name is Ye, Yangzhen. You can call me **_Yangzhen_** or **_Michael_** 
+Hi there. My name is Ye, Yangzhen. You can call me **Yangzhen** or **Michael** 
 
 I am from Suzhou, China🇨🇳, and now I'm in Ann Arbor, United States🇺🇸.
 
