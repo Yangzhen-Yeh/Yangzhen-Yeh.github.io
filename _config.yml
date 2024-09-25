@@ -21,7 +21,7 @@ repository               : "Yangzhen-Yeh/Yangzhen-Yeh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "BIO.png"
+  avatar           : "BIO.PNG"
   name             : "Yangzhen Ye"
   pronouns         : "he/him/his"  
   bio              : "M.A. Stu. in Higher Education"
