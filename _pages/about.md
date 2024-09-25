@@ -92,8 +92,7 @@ Experience
 
 Personal Journey as a First-Generation Student 
 ------
-> As a first-generation college student hailing from a low-socioeconomic background, everything within the university milieu was nearly alien to me. Despite having diligently pursued academic excellence and bearing my parents’ aspirations, stepping into university invoked not freedom and confidence but pervasive anxiety and fear. The campus felt overwhelmingly large, complex, and resource-rich. The bombardment of information made me feel disoriented. 
-
+> As a first-generation college student hailing from a low-socioeconomic background, everything within the university milieu was nearly alien to me. Despite having diligently pursued academic excellence and bearing my parents’ aspirations, stepping into university invoked not freedom and confidence but pervasive anxiety and fear. The campus felt overwhelmingly large, complex, and resource-rich. The bombardment of information made me feel disoriented.
 > While peers were engaging with professors on research endeavors, I found the concept of research itself unfamiliar. As they skillfully navigated course selection, I was still puzzled by the categorization of required and elective courses. Thus began my struggle and avoidance, often plunging into distress and confusion. My initial thought upon entering university was, **“I don’t belong here.”** 
 
 Exploring Educational Inequities
