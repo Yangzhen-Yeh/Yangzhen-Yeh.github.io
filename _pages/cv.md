@@ -81,8 +81,8 @@ Work experience
   
 Skills
 ======
-* Quantitative analysis methods
-  * Stata: intermediate level
+## * Quantitative analysis methods
+ > * Stata: intermediate level
   * SPSS: intermediate level
   * Python: beginner level
 * Program Management
