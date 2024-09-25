@@ -12,7 +12,7 @@ title                    : "Ye, Yangzhen's Bio Page"
 title_separator          : "-"
 name                     : "Ye, Yangzhen"
 description              : "MA Stu @Umich, Program Assis @DSI, Umich"
-url                      : "https://yangzhen-yeh.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yangzhen-yeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "Yangzhen-Yeh/Yangzhen-Yeh.github.io"
 
@@ -21,7 +21,7 @@ repository               : "Yangzhen-Yeh/Yangzhen-Yeh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "BIO.PNG"
+  avatar           : "bio.png"
   name             : "Yangzhen Ye"
   pronouns         : "he/him/his"  
   bio              : "M.A. Stu. in Higher Education"
