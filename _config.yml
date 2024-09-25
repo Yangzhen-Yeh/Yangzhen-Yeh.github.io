@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ye, Yangzhen"
+title                    : "Ye, Yangzhen's Bio Page"
 title_separator          : "-"
-name                     : &name "Ye, Yangzhen"
-description              : &description "MA Stu @Umich, Program Assis @DSI, Umich"
-url                      : https://yangzhen-yeh.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Ye, Yangzhen"
+description              : "MA Stu @Umich, Program Assis @DSI, Umich"
+url                      : "https://yangzhen-yeh.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "Yangzhen-Yeh/Yangzhen-Yeh.github.io"
 
@@ -25,7 +25,7 @@ author:
   name             : "Yangzhen Ye"
   pronouns         : "he/him/his"  
   bio              : "M.A. Stu. in Higher Education"
-  location         : "Ann Arbor, MI"
+  location         : "Ann Arbor, MI, 48103"
   employer         : "University of Michigan, Ann Arbor"
   uri              : # URL
   email            : "yeyz@umich.edu" 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
