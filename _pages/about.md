@@ -22,7 +22,7 @@ Educational Background
 ## _University of Michigan, Ann Arbor (2024-Present)_
 
 _M.A. Student, **Higher Education**  
-[Center for the Study of Higher and Postsecondary Education](https://marsal.umich.edu/academics-admissions/cshpe)
+[Center for the Study of Higher and Postsecondary Education](https://marsal.umich.edu/academics-admissions/cshpe)  
 Concentration: Diversity and Social Justice in Higher Education_
 
 ---
