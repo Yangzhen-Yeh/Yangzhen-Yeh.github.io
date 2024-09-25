@@ -11,7 +11,7 @@ Hello. My name is Yeh Yangzhen, you can call me **_Yangzhen_** or **_Michael_**
 
 I am from Suzhou, China🇨🇳, and now I'm in Ann Arbor, United States🇺🇸.
 
-I graduated from [**Soochow University**](http://eng.suda.edu.cn/) in June 2024，and I am currently pursuing a Master's degree in **Higher Education** at [**Marsal Family School of Education**](https://marsal.umich.edu/) at [**University of Michigan, Ann Arbor**](https://umich.edu/), and I am working as a Program Planning Assistant at the [**Digital Studies Institute**](https://www.digitalstudies.umich.edu/)｜[College of LSA](https://lsa.umich.edu/) at the University of Michigan. 
+I graduated from [**Soochow University**](http://eng.suda.edu.cn/) in June 2024 with a degree in Management Science and Education. Currently pursuing a Master's degree with a focus on _Diversity and Social Justice in Higher Education_ in **Higher Education** at the [**Marsal Family School of Education**](https://marsal.umich.edu/) at the [**University of Michigan, Ann Arbor**](https://umich.edu/). Also, I am working as a Program Assistant at the [**Digital Studies Institute**](https://www.digitalstudies.umich.edu/)｜[College of LSA](https://lsa.umich.edu/) at the University of Michigan. 
 
 I am interested in research related to **higher education**, with a particular interest in the topics of **educational equity**, **student success**, **low-income families**, **low socioeconomic status(SES) families** and **first-generation college students**.
 
