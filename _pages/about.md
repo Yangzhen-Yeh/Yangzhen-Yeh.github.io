@@ -1,36 +1,36 @@
 ---
 permalink: /
-# title: "Who am I?"
+# title: "_Who am I?_"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello. My name is Yeh Yangzhen, you can call me **_Yangzhen_** or **_Michael_**! 
+Hello. My name is Yeh Yangzhen, you can call me **_Yangzhen_** or **_Michael_** 
 
-I am from Suzhou, China🇨🇳. Now I'm in Ann Arbor, United States🇺🇸.
+I am from Suzhou, China🇨🇳, and now I'm in Ann Arbor, United States🇺🇸.
 
-I am currently pursuing a Master's degree in Higher Education at [Marsal Family School of Education](https://marsal.umich.edu/)｜[University of Michigan, Ann Arbor](https://umich.edu/), and I am working as a Program Planning Assistant at the [Digital Studies Institute](https://www.digitalstudies.umich.edu/)｜[College of LSA](https://lsa.umich.edu/) at the University of Michigan. 
+I graduated from [**Soochow University**](http://eng.suda.edu.cn/) in June 2024，and I am currently pursuing a Master's degree in **Higher Education** at [**Marsal Family School of Education**](https://marsal.umich.edu/) at [**University of Michigan, Ann Arbor**](https://umich.edu/), and I am working as a Program Planning Assistant at the [**Digital Studies Institute**](https://www.digitalstudies.umich.edu/)｜[College of LSA](https://lsa.umich.edu/) at the University of Michigan. 
 
-I am interested in research related to **higher education**, with a particular interest in the topics of **educational equity**, **student success**, **low-income families**, and **first-generation college students**.
+I am interested in research related to **higher education**, with a particular interest in the topics of **educational equity**, **student success**, **low-income families**, **low socioeconomic status(SES) families** and **first-generation college students**.
 
-
+---
 Educational Background
 ======
 ---
-
 ## _University of Michigan, Ann Arbor (2024-Present)_
 
 _M.A. Student, **Higher Education**  
-[Center for the Study of Higher and Postsecondary Education](https://marsal.umich.edu/academics-admissions/cshpe)_
+[Center for the Study of Higher and Postsecondary Education](https://marsal.umich.edu/academics-admissions/cshpe)
+Concentration: Diversity and Social Justice in Higher Education_
 
 ---
 
 ## _Soochow University (2020-2024)_
 
 _B.S. in **Management**  
-Department of Management Science  
+[Department of Management Science](https://eng.suda.edu.cn/Academics/Schools/201712/c4cca464-33ac-45a0-8e08-d81a3dde41c2.html)  
 GPA: 3.8_
 
 ---
@@ -38,7 +38,7 @@ GPA: 3.8_
 ## _Soochow University (2021-2024)_
 
 _B.A. in **Education**  
-Department of Education  
+[Department of Education](https://eng.suda.edu.cn/Academics/Schools/201712/c45ed936-72e5-490a-9288-0dc03acc1a83.html)  
 GPA: 3.8_
 
 ---
@@ -46,17 +46,16 @@ GPA: 3.8_
 ## _University of Taipei (2023)_
 
 _Exchange Student 
-Department of Education 
-GPA: 3.8_
+[Department of Education](https://edu.utaipei.edu.tw/index.php?Lang=en) 
+GPA: 4.0_
 
 ---
 
-
+---
 Experience
 ======
 ---
-
-## Programming Assistant (on site)  _（2024.8-Present）_
+## Programming Assistant (hybrid)  _（2024.8-Present）_
 
 **Digital Studies Institute｜University of Michigan, Ann Arbor**
 
@@ -72,7 +71,7 @@ _Design and implement a curricular unit centered on debate, with the primary obj
 
 ---
 
-## Volunteer Teacher (on site)  _（2022.6-2022.8）_
+## Volunteer Teacher (on site)  _（2022 Summer）_
 
 **English Teacher and Class advisor｜Puyang Xuji Weiwu Primary School**
 
@@ -88,8 +87,9 @@ _Developed a curriculum in conjunction with the e-blocks instructional system to
 
 ---
 
-
-# Why I am here?
+---
+# _Why I am here?_
+---
 
 Personal Journey as a First-Generation Student 
 ------
