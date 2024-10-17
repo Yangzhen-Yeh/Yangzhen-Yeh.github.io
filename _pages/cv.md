@@ -54,7 +54,7 @@ Work experience
 ---
 ## Programming Assistant (hybrid)  _（2024.8-Present）_
 
-**Digital Studies Institute｜University of Michigan, Ann Arbor**
+**[Digital Studies Institute](https://www.digitalstudies.umich.edu/)｜University of Michigan, Ann Arbor**
 
 > _Contribute to the development of community-focused initiatives designed to illuminate the social inequities underpinnings of the digital age._
 
@@ -99,11 +99,13 @@ Skills
 > Marketing  
 > Hosting  
 > Emergency management
+> Budgeting
 
 ---
 
 ## Bilingualism
 > Native level Chinese  
 > Fluent English
+> Beginning French
 
 ---
