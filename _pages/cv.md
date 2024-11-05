@@ -106,6 +106,6 @@ Skills
 ## Bilingualism
 > Native level Chinese  
 > Fluent English
-> Beginning French
+> Beginning French (Very beginner level)
 
 ---
