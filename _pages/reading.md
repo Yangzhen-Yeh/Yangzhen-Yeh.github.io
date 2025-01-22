@@ -22,7 +22,7 @@ _Cameras of Merit or Engines of Inequality? College Ranking Systems and the Enro
 
 _Sieve, Incubator, Temple, Hub: Empirical and Theoretical Advances in the Sociology of Higher Education_
 
-[View the article]([https://eng.suda.edu.cn/Academics/Schools/201712/c45ed936-72e5-490a-9288-0dc03acc1a83.html](https://www.annualreviews.org/content/journals/10.1146/annurev.soc.34.040507.134737))  
+[View the article](https://www.annualreviews.org/content/journals/10.1146/annurev.soc.34.040507.134737)  
 
 ---
 
