@@ -16,7 +16,7 @@ I graduated from [**Soochow University**](http://eng.suda.edu.cn/) in June 2024 
 
 ## 🎯 Research Interests
 
-My research lies at the intersection of **educational equity**, **student success**, and the **philosophy and organization of higher education**. He is particularly interested in:
+My research lies at the intersection of **educational equity**, **student success**, and the **philosophy and organization of higher education**. I am particularly interested in:
 
 - The experiences of **first-generation college students**
 - **Class-based inequality** in higher education access, success, and outcomes
