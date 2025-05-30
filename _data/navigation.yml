@@ -1,4 +1,4 @@
-# The following is the order of the links in the header of the website.
+c# The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
@@ -11,11 +11,11 @@ main:
   - title: "Articles of current interest/reading"
     url: /reading/    
 
-  # - title: "Teaching"
-  #  url: /teaching/    
+  - title: "Education Background"
+    url: /educationbackground/    
     
-  # - title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Experience"
+    url: /experience/
         
   - title: "Blog Posts"
     url: /year-archive/
