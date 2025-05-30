@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ---
-[View File](../assets/Resume|2025.5.pdf)
+[View File](../assets/Resume5.pdf)
 
 ---
